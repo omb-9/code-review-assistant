@@ -1,4 +1,4 @@
-# Code Reviewer
+# Code Review Assistant
 
 ---
 
